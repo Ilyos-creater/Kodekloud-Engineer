@@ -36,11 +36,7 @@ Each task in this repository corresponds to an assignment from the program. Solu
 
 | Task No. | Task Title | Status |
 |----------|------------|---------|
-| 01 | Linux User Management | ✅ Completed |
-| 02 | Web Server Setup (Apache/Nginx) | ✅ Completed |
-| 03 | MySQL Database Configuration | ✅ Completed |
-| 04 | Docker Container Deployment | 🚧 In Progress |
-| 05 | Kubernetes Cluster Setup | 🔜 Upcoming |
+| 01 | Linux User Management 
 
 _Note: The full list of tasks can be found in the repository._
 
