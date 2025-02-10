@@ -60,16 +60,6 @@ To follow along, ensure you have:
 - **file-permissions/**: Solutions for handling file permissions and ownership.
 - **process-management/**: Scripts and commands for managing Linux processes and services.
 
-## How to Use This Repository
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/kodekloud-engineer.git
-   ```
-2. Navigate to the Linux section:
-   ```bash
-   cd kodekloud-engineer/linux-tasks
-   ```
-3. Open the relevant task folder and follow the instructions.
 
 ## Resources
 - [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
