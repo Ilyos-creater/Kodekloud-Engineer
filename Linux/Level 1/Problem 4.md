@@ -8,7 +8,7 @@ Here are the specifics:
 
 Create a user named `mariyam` in `App Server 1` without a home directory.
 
-###Solution:
+### Solution:
 To solve this problem, we are going onto the App server 1, and then create the user mariyam (also specify for her to not have any home directory).
 1. App Server 1:
     a) ssh tony@stapp01 -> provide password if prompted
