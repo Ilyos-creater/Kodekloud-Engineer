@@ -1,6 +1,6 @@
 # KodeKloud Engineer - Linux Solutions (Project3 - level 1)
 
-## Task: Create a User on App Server 2
+## Task: Create a User on App Server 1
 
 ### Requirements:
 In response to the latest tool implementation at `xFusionCorp Industries`, the system admins require the creation of a service user account.
